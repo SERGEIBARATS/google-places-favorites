@@ -1,6 +1,6 @@
 # react-native-TodoList-Favorites-GooglePlaces
 
-#Basic components
+* Basic components
 #Rendering List items
 #Using Redux for global State
 #Navigation with React-Navigation
