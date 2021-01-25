@@ -1,4 +1,8 @@
-# react-native-TodoList-Favorites-GooglePlaces
+# Favorites google places - todoList
+
+Technologies: React-Native/Typescript & Redux & GooglePlaces API
+
+***
 
 * Basic components
 * Rendering List items
@@ -6,4 +10,4 @@
 * Navigation with React-Navigation
 * Using Stylesheet and Flexbox
 * Using Google Places API autoComplete
-* 
+
